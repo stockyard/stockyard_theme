@@ -1,8 +1,8 @@
 # DESCRIPTION: ggplot2 theme
 # LEGAL: based on publication ready theme: https://github.com/koundy/ggplot_theme_Publication
 # LEGAL: modified by stockyard <stockyard@tuta.io>
-# NOTE: Please, use it at your own risk
-# Main theme ####
+# NOTE: please, use it at your own risk
+# Main ####
 theme_z <- function(base_size=8, base_family="PT Sans") {
     library(grid)
     library(ggthemes)
